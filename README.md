@@ -23,6 +23,12 @@ Love Live anime facts quotes for the Fortune app.
 
 Install Fortune
 
+
+
+
+
+
+
 ``` sudo dnf install fortune  ```
 
 
@@ -35,8 +41,7 @@ Copy the files to the corresponding directory
 
 
 
-``` sudo cp  <files-you-want-to-use> <files-you-want-to-use-.dat> /usr/share/games/
-fortune ```
+``` sudo cp  <files-you-want-to-use> <files-you-want-to-use-.dat> /usr/share/games/fortune ```
 
 
 
