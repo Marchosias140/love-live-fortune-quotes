@@ -25,19 +25,78 @@ Install Fortune
 
 ``` sudo dnf install fortune  ```
 
+
+
+
+
 Copy the files to the corresponding directory
+
+
+
+
 
 ``` sudo cp  <files-you-want-to-use> <files-you-want-to-use-.dat> /usr/share/games/
 fortune ```
 
+
+
+
+
 Then, use the following command in order to check if it worked:
+
+
+
+
+
+
+
+
 
 ``` fortune -f ```
 
+
+
+
+
+
+
+
 If you want to see only quotes from the Love Live files, use this command:
+
+
+
+
+
+
+
 
  ``` fortune <name-of-the-file>  ```
 
+
+
+
+
+
+
+
+
 You can also use Cowsay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ``` fortune <name-of-the-file> | cowsay ```
